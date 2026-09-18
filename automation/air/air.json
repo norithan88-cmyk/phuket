@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T23:37:20.355Z",
+  "updated_at": "2026-09-18T23:29:38.523Z",
   "source_name": "Air4Thai（タイ公害管理局 公式API）",
   "source_url": "https://air4thai.pcd.go.th/services/getNewAQI_JSON.php",
   "stations": [
@@ -10,10 +10,10 @@
       "area_en": "Talat Yai, Mueang, Phuket",
       "lat": 7.884488,
       "lon": 98.391283,
-      "date": "2026-09-18",
+      "date": "2026-09-19",
       "time": "06:00",
-      "pm25_value": 14.9,
-      "aqi": 25,
+      "pm25_value": 6.6,
+      "aqi": 11,
       "aqi_level": {
         "label": "良好",
         "labelJa": "良好（安全）"
