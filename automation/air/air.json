@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T23:46:19.753Z",
+  "updated_at": "2026-10-17T23:19:19.343Z",
   "source_name": "Air4Thai（タイ公害管理局 公式API）",
   "source_url": "https://air4thai.pcd.go.th/services/getNewAQI_JSON.php",
   "stations": [
@@ -11,9 +11,9 @@
       "lat": 7.884488,
       "lon": 98.391283,
       "date": "2026-10-17",
-      "time": "06:00",
-      "pm25_value": 23,
-      "aqi": 45,
+      "time": "21:00",
+      "pm25_value": 20,
+      "aqi": 38,
       "aqi_level": {
         "label": "普通",
         "labelJa": "普通"
